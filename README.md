@@ -44,18 +44,8 @@ The program can compare stocks such as:
 RELIANCE
 ITC
 
-And produce a comparison like:
-
-METRIC              RELIANCE            ITC
----------------------------------------------------------
-Return              ...
-Volatility          ...
----------------------------------------------------------
-Better Return       ...
-Lower Risk          ...
 
 Project Purpose:
-
 This project was created to practice Python programming by applying it to real-world financial data and stock analysis.
 
 Disclaimer:
