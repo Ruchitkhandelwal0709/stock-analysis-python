@@ -45,8 +45,8 @@ RELIANCE
 ITC
 
 
-Project Purpose:
+# Project Purpose:
 This project was created to practice Python programming by applying it to real-world financial data and stock analysis.
 
-Disclaimer:
+# Disclaimer:
 This project is for educational and analytical purposes only. It is not financial advice or a recommendation to buy or sell any stock.
